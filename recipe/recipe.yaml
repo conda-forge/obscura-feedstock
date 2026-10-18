@@ -1,5 +1,5 @@
 context:
-  version: "0.2.4"
+  version: "0.2.5"
 
 package:
   name: obscura
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/h4ckf0r0day/obscura/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: e8cfbad9025bd79d4f22da55e2c0f9111b8a082b821805f258c6be2594f25111
+  sha256: af287fa7658270a68ad6f1220197eb55035614a91b14295117da78e55494958a
 
 build:
   number: 0
